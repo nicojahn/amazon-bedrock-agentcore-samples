@@ -2,7 +2,7 @@
 #    uv pip compile pyproject.toml -o requirements.txt
 a2a-sdk==0.3.8
     # via strands-agents
-aiomysql==0.2.0
+aiomysql==0.3.0
     # via sqlalchemy
 aiosqlite==0.21.0
     # via sqlalchemy
